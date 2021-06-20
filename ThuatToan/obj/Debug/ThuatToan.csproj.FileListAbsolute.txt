@@ -1,0 +1,7 @@
+D:\kim\projects\LearnCSharp\ThuatToan\ThuatToan\bin\Debug\ThuatToan.exe.config
+D:\kim\projects\LearnCSharp\ThuatToan\ThuatToan\bin\Debug\ThuatToan.exe
+D:\kim\projects\LearnCSharp\ThuatToan\ThuatToan\bin\Debug\ThuatToan.pdb
+D:\kim\projects\LearnCSharp\ThuatToan\ThuatToan\obj\Debug\ThuatToan.csprojAssemblyReference.cache
+D:\kim\projects\LearnCSharp\ThuatToan\ThuatToan\obj\Debug\ThuatToan.csproj.CoreCompileInputs.cache
+D:\kim\projects\LearnCSharp\ThuatToan\ThuatToan\obj\Debug\ThuatToan.exe
+D:\kim\projects\LearnCSharp\ThuatToan\ThuatToan\obj\Debug\ThuatToan.pdb
